@@ -2,7 +2,7 @@
 
 * [Deskripsi Program](https://github.com/zafrantsany/Program-Regresi-Linear#deskripsi-program)
 * [Installation](https://github.com/zafrantsany/Program-Regresi-Linear/blob/master/README.md#installation)
-* [Penjelasan Program](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#penjelasan-program)
+* [Penjelasan Program](https://github.com/zafrantsany/Program-Regresi-Linear#penjelasan-program)
 * [Flowchart](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#flow-chart)
 * [Contact Person](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#contact-person)
 * [Pembagian Tugas](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#pembagian-tugas)

@@ -1,11 +1,11 @@
 # Program Regresi Linear
 
-* [Deskripsi Program](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#deskripsi-program)
-* [Installation](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#installation)
-* [Penjelasan Program](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#penjelasan-program)
-* [Flowchart](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#flow-chart)
-* [Contact Person](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#contact-person)
-* [Pembagian Tugas](https://github.com/zafrantsany/Program-Regresi-Linear/wiki/Program-Regresi-Linear/_edit#pembagian-tugas)
+* [Deskripsi Program](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#deskripsi-program)
+* [Installation](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#installation)
+* [Penjelasan Program](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#penjelasan-program)
+* [Flowchart](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#flow-chart)
+* [Contact Person](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#contact-person)
+* [Pembagian Tugas](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#pembagian-tugas)
 
 ## Deskripsi Program 
 

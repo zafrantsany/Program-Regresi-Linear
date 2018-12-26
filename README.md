@@ -1,6 +1,6 @@
 # Program Regresi Linear
 
-* [Deskripsi Program](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#deskripsi-program)
+* [Deskripsi Program](https://github.com/zafrantsany/Program-Regresi-Linear#deskripsi-program)
 * [Installation](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#installation)
 * [Penjelasan Program](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#penjelasan-program)
 * [Flowchart](https://github.com/zafrantsany/Program-Regresi-Linear/edit/master/README.md/_edit#flow-chart)
